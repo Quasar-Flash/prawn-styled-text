@@ -19,4 +19,5 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'oga', '~> 2.15'
   spec.add_runtime_dependency 'prawn', '~> 2'
+  spec.add_runtime_dependency 'matrix'
 end
